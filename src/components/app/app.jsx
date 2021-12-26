@@ -1,3 +1,4 @@
+/* eslint-disable func-names */
 /* eslint-disable react/jsx-no-constructed-context-values */
 /* eslint-disable no-shadow */
 /* eslint-disable no-unused-vars */
