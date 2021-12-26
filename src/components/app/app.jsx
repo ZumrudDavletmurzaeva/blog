@@ -1,7 +1,7 @@
 /* eslint-disable func-names */
 /* eslint-disable react/jsx-no-constructed-context-values */
 /* eslint-disable no-shadow */
-/* eslint-disable no-unused-vars */
+
 import React, {useState, useEffect} from 'react';
 import {BrowserRouter as Router,  Route, Switch} from 'react-router-dom';
 import Header from '../header';
