@@ -1,6 +1,6 @@
 export default class BlogApi {
   constructor() {
-    // this.apiBase = `http://kata.academy:8022/`;
+
     this.apiBase = `https://cirosantilli-realworld-next.herokuapp.com/api/`
 
 
