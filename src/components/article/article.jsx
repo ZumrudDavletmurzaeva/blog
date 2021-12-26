@@ -12,7 +12,6 @@ import BlogApi from '../../services/blog-api';
 import { SignContext } from '../signContext';
 import './article.css';
 
-
 const api = new BlogApi();
 
 const Article = function({match}) {
